@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:anichart.net)",
+      "WebFetch(domain:bangumi.tv)",
+      "WebFetch(domain:bgm.tv)"
+    ]
+  },
+  "skipWebFetchPreflight": true
+}

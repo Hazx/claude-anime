@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:animestore.docomo.ne.jp)",
+      "WebFetch(domain:www.anime-planet.com)",
+      "WebFetch(domain:zh.moegirl.org.cn)",
+      "WebFetch(domain:mushokutensei.jp)",
+      "WebFetch(domain:anime.bang-dream.com)",
+      "WebFetch(domain:bleach-anime.com)",
+      "WebFetch(domain:lv999-anime.com)",
+      "WebFetch(domain:kimiai-anime.com)",
+      "WebFetch(domain:ibikona-anime.com)",
+      "WebFetch(domain:kamuisan.deregula.com)",
+      "WebFetch(domain:uchioto-anime.com)",
+      "WebFetch(domain:kimishinu-anime.com)"
+    ]
+  }
+}
