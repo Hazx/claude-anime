@@ -126,16 +126,16 @@ output/
 | 3 | 百度百科 | https://baike.baidu.com | 补充信息 |
 | 4 | bilibili | https://www.bilibili.com | 补充信息 |
 | 5 | 微博 | https://weibo.com | 补充信息 |
-| 6 | **anime-planet** | https://www.anime-planet.com | **英文译名**、TAG |
-| 7 | AniChart | https://anichart.net | 季度列表、补充信息 |
-| 8 | aniDB | https://anidb.net | 补充信息 |
-| 9 | 推特/X | https://x.com | 官方动态、资讯新闻 |
-| 10 | 番剧官方网站 | - | 官方信息 |
+| 6 | 番剧官方网站 | - | 官方信息 |
+| 7 | **anime-planet** | https://www.anime-planet.com | **英文译名**、TAG |
+| 8 | AniChart | https://anichart.net | 季度列表、补充信息 |
+| 9 | aniDB | https://anidb.net | 补充信息 |
+| 10 | 推特/X | https://x.com | 官方动态、资讯新闻 |
 | 11 | 其他网站 | - | 补充信息 |
 
 ### 网络代理配置
 
-当使用 `curl` 等命令行工具检索网络信息时，若遇到 Bangumi、yuc.wiki、萌娘百科等站点被防火墙拦截的情况，使用以下代理：
+当使用 `curl` 等命令行工具检索网络信息时，若遇到站点被防火墙拦截的情况，使用以下代理：
 
 - **HTTP 代理**：`http://192.168.2.200:2080`
 - **HTTPS 代理**：`http://192.168.2.200:2080`
@@ -146,9 +146,9 @@ output/
 
 以下情况**一律使用代理**，无需判断是否被拦截：
 
-- 动画官方网站
+- 番剧官方网站
 - `.jp` 结尾域名的网站
-- 中国境外网站（如 X / Twitter、Facebook 等）
+- 中国境外网站（如 X / 推特、Facebook 等）
 
 ### 网页读取工具优先级
 
