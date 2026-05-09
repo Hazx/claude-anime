@@ -20,7 +20,7 @@
 | 构成 | 構成 |
 | 编剧 | 脚本 |
 | 角色原案 | キャラクター原案、人物原案、Original Character Design |
-| 人设 | キャラクターデザイン、角色设计、角色设定、Character Design |
+| 人设 | キャラクターデザイン、人物设定、角色设计、角色设定、Character Design |
 | 总作画导演 | 总作画监督、総作画監督、Chief Animation Director |
 | 美术设定 | 美術設定 |
 | 美术导演 | 美术监督、美術監督 |
