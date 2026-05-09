@@ -180,7 +180,9 @@
 
 ### STAFF 记录规则
 
-每部番剧的 STAFF 信息分**两部分**记录：
+每部番剧的 STAFF 信息分**两部分**记录。
+
+不同数据源对同一 STAFF 职位可能使用不同的名称（如日文原名、不同中文译法）。整理时须参考 [`staff-position-trans.md`](staff-position-trans.md) 将职位名称统一为项目标准名称后，再写入各个 STAFF 列表。
 
 #### 第一部分：完整 STAFF 列表
 

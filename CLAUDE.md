@@ -19,6 +19,7 @@
 ├── README.md          # 项目说明文档（对外）
 ├── rules/              # 规则文件目录
 │   ├── staff-name-trans.md      # 自定义 STAFF 姓名中文译名参考表
+│   ├── staff-position-trans.md  # STAFF 职位名称对照表
 │   ├── cast-name-trans.md       # 自定义 CAST 姓名中文译名参考表
 │   ├── anime-template.md        # 番剧信息文件输出格式模板
 │   └── anime-rules-format.md    # 番剧信息文件格式规则（编写/维护番剧详情时须参考）
