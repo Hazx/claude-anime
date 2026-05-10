@@ -67,7 +67,6 @@
 | 百姓贵族 第四季 | 百姓貴族 4th Season | - | Hyakusho Kizoku 4th Season | `百姓贵族_第四季.md` |
 | 花织同学转生后还是想干架 | 花織さんは転生しても喧嘩がしたい | - | Hanaori-san wa Tensei shitemo Kenka ga Shitai | `花织同学转生后还是想干架.md` |
 | 落第贤者的学院无双～第二回转生，S等级作弊魔术师冒险记～ | 落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～ | - | Rakudai Kenja no Gakuin Musou | `落第贤者的学院无双_第二回转生_S等级作弊魔术师冒险记_.md` |
-| 蹂躙王国 | 蹂躙王国 | - | Rinrin Oukoku | `蹂躙王国.md` |
 | 身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした | 身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした | - | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | `身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした.md` |
 | 转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们 | 転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件 | - | Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken | `转学后班上的清纯可爱美少女_竟是小时候玩在一起的哥儿们.md` |
 | 被流放的转生重骑士用游戏知识开无双 | 追放された転生重騎士はゲーム知識で無双する | - | The Exiled Heavy Knight Knows How to Game the System | `被流放的转生重骑士用游戏知识开无双.md` |
@@ -92,7 +91,7 @@
 
 ## 索引说明
 
-- **数量统计**：共 74 部（6 月 0 部 / 7 月 71 部 / 8 月 3 部）
+- **数量统计**：共 73 部（6 月 0 部 / 7 月 70 部 / 8 月 3 部）
 - **筛选规则**：
   - 仅保留主要制作方为日本的 TV 动画 / 网络配信动画
   - 已排除海外动画（中、韩、美等）
