@@ -22,13 +22,13 @@
 | 『你们先走我断后』，于是10年后我成为了传说 | ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。 | - | Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita. | `_你们先走我断后_于是10年后我成为了传说.md` |
 | 描绘直至生命尽头 | これ描いて死ね | - | Kore Kaite Shine | `描绘直至生命尽头.md` |
 | 再见，拉拉 | さよならララ | - | Goodbye, Lara | `再见_拉拉.md` |
-| 恶女不才，请多关照 ~雏宫蝶鼠换身传~ | ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～ | - | Though I Am an Inept Villainess | `恶女不才_请多关照_雏宫蝶鼠换身传_.md` |
+| 恶女不才，请多关照 \~雏宫蝶鼠换身传\~ | ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～ | 虽然我是不完美恶女 ～雏宫蝶鼠替换传～ | Though I Am an Inept Villainess | `恶女不才_请多关照_雏宫蝶鼠换身传_.md` |
 | 碧蓝航线：微速前行！第二季 | アズールレーン びそくぜんしんっ！にっ!! | - | Azur Lane: Bisoku Zenshin! Ni!! | `碧蓝航线_微速前行_第二季.md` |
 | 克雷瓦提斯 第二季 -魔兽之王与虚伪的勇者传承- | クレバテスⅡ-魔獣の王と偽りの勇者伝承- | - | Clevatess Season 2 | `克雷瓦提斯_第二季_魔兽之王与虚伪的勇者传承_.md` |
 | 成长秀～向日葵马戏团～ | グロウアップショウ ～ひまわりのサーカス団～ | - | Grow Up Show: Himawari no Circus-dan | `成长秀_向日葵马戏团_.md` |
 | 人造人009 涅墨西斯 | サイボーグ009 ネメシス | - | Cyborg 009: Nemesis | `人造人009_涅墨西斯.md` |
 | 雷霆三人行 | サンダー3 | - | Thunder 3 | `雷霆三人行.md` |
-| 躲在超市后门抽烟的两人 | スーパーの裏でヤニ吸うふたり | - | Behind the Supermarket, Smoking with You. | `躲在超市后门抽烟的两人.md` |
+| 躲在超市后门抽烟的两人 | スーパーの裏でヤニ吸うふたり | 在超市后门吸烟的二人 | Behind the Supermarket, Smoking with You. | `躲在超市后门抽烟的两人.md` |
 | 女主角？圣女？不，我是杂役女仆（自豪）！ | ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！ | - | Heroine? Seijo? Iie, All Works Maid desu (Hokori)! | `女主角_圣女_不_我是杂役女仆_自豪_.md` |
 | 暴怒千金发誓复仇。～凭借魔导书之力打垮祖国～ | ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～ | - | Buchigire Reijou wa Houfuku wo Chikaimashita. | `暴怒千金发誓复仇_凭借魔导书之力打垮祖国_.md` |
 | プラノサウルス ガチコセイブツ部 | プラノサウルス ガチコセイブツ部 | - | Plannosaurus Gachi Koseibutsu Bu | `プラノサウルス_ガチコセイブツ部.md` |
