@@ -7,7 +7,7 @@
 - 英文译名：THE GHOST IN THE SHELL
 - 番剧类型：漫画改编
 - 官网网址：https://www.theghostintheshell-anime.jp/
-- 开播时间：7月 22:00
+- 开播时间：7月7日 22:00
 - 集数：季番
 - 全球独占：-
 - 泡面番：-
