@@ -78,6 +78,7 @@
 | 鬼之花嫁 | 鬼の花嫁 | - | Oni no Hanayome | `鬼之花嫁.md` |
 | 魔女之谷的夜 | 魔女の谷の夜 | - | Majo no Tani no Yoru | `魔女之谷的夜.md` |
 | 魔法少女奈叶 EXCEEDS Gun Blaze Vengeance | 魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance | - | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | `魔法少女奈叶_EXCEEDS_Gun_Blaze_Vengeance.md` |
+| 梅比乌斯之尘 | メビウス・ダスト | 梅比乌斯·尘埃 | Mebius Dust | `梅比乌斯之尘.md` |
 
 ## 8 月开播
 
@@ -85,13 +86,11 @@
 |------|----------|------|--------|--------|
 | Re：从零开始的异世界生活 第四季 夺还篇 | Re:ゼロから始める異世界生活 4th season 奪還編 | - | Re:ZERO -Starting Life in Another World- Season 4 | `Re_从零开始的异世界生活_第四季_夺还篇.md` |
 | 缎带英雄 | リボンヒーロー | - | The Ribbon Hero | `缎带英雄.md` |
-| 不知火 | しらぬひ | - | SHIRANUI | `不知火.md` |
-
 ---
 
 ## 索引说明
 
-- **数量统计**：共 73 部（6 月 0 部 / 7 月 70 部 / 8 月 3 部）
+- **数量统计**：共 73 部（6 月 0 部 / 7 月 71 部 / 8 月 2 部）
 - **筛选规则**：
   - 仅保留主要制作方为日本的 TV 动画 / 网络配信动画
   - 已排除海外动画（中、韩、美等）
