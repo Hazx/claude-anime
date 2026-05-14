@@ -15,9 +15,9 @@
 | **日文原名** | 番剧的日文原名 | Bangumi |
 | **英文译名** | 番剧的英文译名 | anime-planet |
 | **番剧类型** | 类型标签（原创/小说/漫画/游戏改编，可带国籍前缀） | Bangumi、anime-planet |
-| **故事简介** | 剧情简介（**必须翻译为简体中文**） | Bangumi、萌娘百科 |
-| **主要 CAST** | 主要声优/配音演员（角色名、声优名翻译规则见下文） | Bangumi、萌娘百科、官方网站、cast-name-trans.md |
-| **主要 STAFF** | 主要制作人员（见下方 STAFF 记录规则） | Bangumi、官方网站、staff-name-trans.md |
+| **故事简介** | 剧情简介（**必须翻译为简体中文**） | Bangumi、萌娘百科、番剧官方网站 |
+| **主要 CAST** | 主要声优/配音演员（角色名、声优名翻译规则见下文） | Bangumi、萌娘百科、番剧官方网站、cast-name-trans.md |
+| **主要 STAFF** | 主要制作人员（见下方 STAFF 记录规则） | Bangumi、番剧官方网站、staff-name-trans.md |
 | **官网网址** | 番剧官方网站 | Bangumi、anime-planet |
 | **开播时间** | 首播日期（格式规则见下文） | Bangumi |
 | **集数** | 集数信息（格式规则见下文） | Bangumi、AniChart |
