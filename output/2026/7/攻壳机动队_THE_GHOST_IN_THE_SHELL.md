@@ -9,7 +9,7 @@
 - 官网网址：https://www.theghostintheshell-anime.jp/
 - 开播时间：7月7日 22:00
 - 集数：季番
-- 全球独占：-
+- 全球独占：Prime Video
 - 泡面番：-
 - 多版本：-
 - TAG：赛博朋克、科幻、战斗、悬疑、智斗、犯罪、军事

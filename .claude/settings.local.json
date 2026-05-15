@@ -5,7 +5,8 @@
       "WebFetch",
       "WebFetch(domain:anichart.net)",
       "WebFetch(domain:bangumi.tv)",
-      "WebFetch(domain:bgm.tv)"
+      "WebFetch(domain:bgm.tv)",
+      "Bash(git push *)"
     ]
   },
   "skipWebFetchPreflight": true
